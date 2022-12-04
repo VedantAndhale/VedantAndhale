@@ -1,8 +1,7 @@
 <!-- Notes: icons from https://skillicons.dev/ and shields.io-->
 
-<div align="center">
 <img src="banner.png" align="center" width = "100%" />
-</div>  
+
   
 
 ### <div align="center">Hi folks 👋,</div>  

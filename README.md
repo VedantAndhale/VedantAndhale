@@ -36,7 +36,7 @@
 
 
 ## My Dev Card
-<div align="center">  <a  href="https://app.daily.dev/VedantAndhale"><img src="https://github.com/VedantAndhale/VedantAndhale/blob/main/images/devcard.svg" alt="Vedant Andhale's Dev Card" width="400"/></a></div>
+<div align="center">  <a  href="https://app.daily.dev/VedantAndhale"><img src="https://github.com/VedantAndhale/VedantAndhale/blob/main/devcard.svg" alt="Vedant Andhale's Dev Card" width="400"/></a></div>
   
 
 <br/>  

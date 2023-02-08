@@ -1,7 +1,7 @@
 <!-- Notes: icons from https://skillicons.dev/ and shields.io-->
 
-<img src="https://github.com/VedantAndhale/VedantAndhale/raw/main/mybanner.png" align="center" width = "100%" /> 
-
+<!--<img src="https://github.com/VedantAndhale/VedantAndhale/raw/main/mybanner.jpeg" align="center" width = "100%" /> 
+-->
   
 
 ### <div align="center">Hi folks 👋,</div>  

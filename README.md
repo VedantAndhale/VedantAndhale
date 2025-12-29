@@ -10,21 +10,21 @@ I work at the intersection of **data analysis and machine learning** — explori
 
 ### 🔗 Connect with me
 <p align="left">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:vedantandhale@outlook.com">
     <img src="https://raw.githubusercontent.com/VedantAndhale/VedantAndhale/refs/heads/main/icon/icons8-email-sign.svg" width="26" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/VedantAndhale">
     <img src="https://raw.githubusercontent.com/VedantAndhale/VedantAndhale/refs/heads/main/icon/icons8-linkedin.svg" width="26" />
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://vedant.me">
     <img src="https://raw.githubusercontent.com/VedantAndhale/VedantAndhale/refs/heads/main/icon/icons8-website.svg" width="26" />
   </a>
-  <a href="https://twitter.com/your-handle">
+  <a href="https://twitter.com/VedantAndhale">
     <img src="https://raw.githubusercontent.com/VedantAndhale/VedantAndhale/refs/heads/main/icon/icons8-x.svg" width="30"/>
   </a>
-  <a href="https://youtube.com/@your-channel">
+  <!-- <a href="https://youtube.com/@your-channel">
     <img src="https://raw.githubusercontent.com/VedantAndhale/VedantAndhale/refs/heads/main/icon/icons8-youtube.svg" width="30" />
-  </a>
+  </a> -->
 </p>
 
 ### 🚀 Current focus

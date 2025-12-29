@@ -1,4 +1,4 @@
-# Hi, I’m <span style="color:#8B5CF6"><b>Vedant Andhale</b></span> 👋
+# Hi, I’m <b>Vedant Andhale</b> 👋
 
 **Machine Learning Engineer · Data Analyst**  
 * Turning raw data into actionable insights.  
@@ -16,14 +16,14 @@ I work at the intersection of **data analysis and machine learning** — explori
   <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://raw.githubusercontent.com/VedantAndhale/VedantAndhale/refs/heads/main/icon/icons8-linkedin.svg" width="26" />
   </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://raw.githubusercontent.com/VedantAndhale/VedantAndhale/refs/heads/main/icon/icons8-x.svg" width="26" style="transform: scale(1.4);"/>
-  </a>
   <a href="https://your-portfolio.com">
     <img src="https://raw.githubusercontent.com/VedantAndhale/VedantAndhale/refs/heads/main/icon/icons8-website.svg" width="26" />
   </a>
+  <a href="https://twitter.com/your-handle">
+    <img src="https://raw.githubusercontent.com/VedantAndhale/VedantAndhale/refs/heads/main/icon/icons8-x.svg" width="30"/>
+  </a>
   <a href="https://youtube.com/@your-channel">
-    <img src="https://raw.githubusercontent.com/VedantAndhale/VedantAndhale/refs/heads/main/icon/icons8-youtube.svg" width="26" style="transform: scale(1.2);"/>
+    <img src="https://raw.githubusercontent.com/VedantAndhale/VedantAndhale/refs/heads/main/icon/icons8-youtube.svg" width="30" />
   </a>
 </p>
 

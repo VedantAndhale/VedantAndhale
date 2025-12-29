@@ -30,11 +30,11 @@ I work at the intersection of **data analysis and machine learning** — explori
 ### 🚀 Current focus
 - End-to-end **data analysis projects** (SQL → Python → dashboards)
 - **Machine learning models** on real-world datasets (regression, classification)
-- **Power BI / Tableau dashboards** for business decision-making
+- **Power BI dashboards** for business decision-making
 - Strengthening fundamentals in statistics, ML, and system thinking
 
 
 ### 🛠️ Tech stack
 - **Languages:** Python, SQL  
-- **Data:** Pandas, NumPy, Matplotlib, Seaborn, Excel,PowerBI  
+- **Data:** Pandas, NumPy, Matplotlib, Seaborn, Excel, PowerBI  
 - **Machine Learning:** Scikit-learn, PyTorch  

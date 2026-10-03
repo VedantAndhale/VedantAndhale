@@ -3,6 +3,12 @@
 Applied AI engineer. I work on retrieval, agents, evaluation, and the backend systems around them,
 with one loop in mind: build, observe, evaluate, improve.
 
+## Activity
+
+[![GitHub contributions across my work and personal accounts](https://www.vedant.me/contributions.svg)](https://www.vedant.me/)
+
+Work and personal accounts combined. Work is private repos, counted without names or code.
+
 ## Projects
 
 - **[claude-pro-kit](https://github.com/VedantAndhale/claude-pro-kit)** — Claude Code mods that make the
